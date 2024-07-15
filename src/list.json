@@ -557,5 +557,20 @@
     "name": "Waffarha",
     "website": "https://waffarha.com/",
     "country": "Egypt"
+  },
+  {
+    "name": "TinyURL",
+    "website": "https://tinyurl.com/",
+    "country": "United States"
+  },
+  {
+    "name": "Allocate",
+    "website": "https://www.allocate.co/",
+    "country": "United States"
+  },
+  {
+    "name": "Trak Software",
+    "website": "https://www.trak.io/",
+    "country": "United States"
   }
 ]
