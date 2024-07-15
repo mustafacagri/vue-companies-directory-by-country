@@ -751,7 +751,7 @@
 <td>✅</td>
 <td>✅</td>
 <td></td>
-<td><a href="https://www.linkedin.com/in/mustafacagri" target="_blank">mustafacagri</a></td>
+<td></td>
 </tr>
 <tr>
 <td><a href="https://www.aixigo.com" target="_blank">Aixigo</a></td>
@@ -770,7 +770,7 @@
 <tr>
 <td><a href="https://www.iceberg-digital.co.uk" target="_blank">Iceberg Digital</a></td>
 <td>✅</td>
-<td>✅</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
