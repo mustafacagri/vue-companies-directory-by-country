@@ -59,7 +59,7 @@
 <td></td>
 </tr>
 <tr>
-<td><a href="https://www.feedbackly.com/" target="_blank">Feedbackly5</a></td>
+<td><a href="https://www.feedbackly.com/" target="_blank">Feedbackly</a></td>
 <td></td>
 <td></td>
 <td></td>
