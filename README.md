@@ -2,7 +2,7 @@
 <h1>🌐 Vue.js Companies Directory</h1>
 
 <p>Welcome to the Vue Companies Directory repository! This project aims to provide a comprehensive list of companies worldwide that use Vue.js in their tech stack. It's a community-driven effort to showcase Vue.js adoption across different countries and industries.</p>
-<p>Currently, we have <strong><em>98 companies</em></strong> listed from <strong><em>12 different countries</em></strong>! Let's grow our community together by adding more companies and sharing this repository with fellow Vue.js enthusiasts.</p>
+<p>Currently, we have <strong><em>101 companies</em></strong> listed from <strong><em>12 different countries</em></strong>! Let's grow our community together by adding more companies and sharing this repository with fellow Vue.js enthusiasts.</p>
 
 <h2>Contents</h2>
 
@@ -800,6 +800,13 @@
 <table>
 <tr><th>Name</th><th>Remote</th><th>Hybrid</th><th>Hiring</th><th>Contact</th></tr>
 <tr>
+<td><a href="https://www.allocate.co/" target="_blank">Allocate</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td><a href="https://curotec.com/" target="_blank">Curotec</a></td>
 <td></td>
 <td></td>
@@ -808,6 +815,20 @@
 </tr>
 <tr>
 <td><a href="https://herodevs.com/" target="_blank">herodevs</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://tinyurl.com/" target="_blank">TinyURL</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://www.trak.io/" target="_blank">Trak Software</a></td>
 <td></td>
 <td></td>
 <td></td>
