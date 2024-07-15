@@ -1,5 +1,5 @@
 
-<h1>🌐 Vue Companies Directory (97 companies!)</h1>
+<h1>🌐 Vue Companies Directory (98 companies!)</h1>
 
 <p>Welcome to the Vue Companies Directory repository! This project aims to provide a comprehensive list of companies worldwide that use Vue.js in their tech stack. It's a community-driven effort to showcase Vue.js adoption across different countries and industries.</p>
 
@@ -7,6 +7,7 @@
 
 <ul>
 <li>🇨🇦 - <a href="#----canada">Canada</a></li>
+<li>🇪🇬 - <a href="#----egypt">Egypt</a></li>
 <li>🇫🇮 - <a href="#----finland">Finland</a></li>
 <li>🇬🇪 - <a href="#----georgia">Georgia</a></li>
 <li>🇮🇳 - <a href="#----india">India</a></li>
@@ -28,6 +29,17 @@
 <tr><th>Name</th><th>Remote</th><th>Hybrid</th><th>Hiring</th><th>Contact</th></tr>
 <tr>
 <td><a href="https://vehikl.com/" target="_blank">Vehikl</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table><br><h2>🇪🇬 -  Egypt</h2>
+
+<table>
+<tr><th>Name</th><th>Remote</th><th>Hybrid</th><th>Hiring</th><th>Contact</th></tr>
+<tr>
+<td><a href="https://waffarha.com/" target="_blank">Waffarha</a></td>
 <td></td>
 <td></td>
 <td></td>
