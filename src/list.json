@@ -500,7 +500,6 @@
     "name": "Iceberg Digital",
     "website": "https://www.iceberg-digital.co.uk",
     "country": "Turkey",
-    "isHybrid": true,
     "isRemote": true
   },
   {
@@ -522,8 +521,7 @@
     "website": "https://www.adesso.com.tr",
     "country": "Turkey",
     "isHybrid": true,
-    "isRemote": true,
-    "contact": { "text": "mustafacagri", "url": "https://www.linkedin.com/in/mustafacagri" }
+    "isRemote": true
   },
   {
     "name": "WebReinvent",
