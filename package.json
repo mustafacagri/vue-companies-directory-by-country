@@ -1,0 +1,8 @@
+{
+  "name": "vue-companies-directory-by-country",
+  "version": "1.0.0",
+  "description": "Discover Vue.js adopters worldwide! 🚀 This repository showcases companies using Vue.js, organized by country. 🌐 Explore which companies are hiring with hybrid or remote options, and dive into Vue.js opportunities globally. 🌟 Join us in celebrating Vue.js excellence across industries and find your next Vue.js adventure! 💼",
+  "main": "src/update-readme.js",
+  "author": "mustafacagri",
+  "license": "ISC"
+}

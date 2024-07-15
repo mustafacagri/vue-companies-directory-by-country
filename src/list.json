@@ -1,0 +1,558 @@
+[
+  {
+    "name": "GNEX ltd.",
+    "website": "https://globalnet-ex.com",
+    "description": "Push7 (SaaS web push service) Web Site and Document on Nuxt.js, CartEngine (E-Commerce support system) SPA Dashboard on Vue.",
+    "country": "Japan"
+  },
+  {
+    "name": "Minkore",
+    "website": "https://minkore.funa.in.net",
+    "description": "Migrating to Vue.js + Firebase SPA",
+    "country": "Japan"
+  },
+  {
+    "name": "Nagisa-inc",
+    "website": "https://nagisa-inc.jp",
+    "description": "Manga ZERO (SPA + SSR), UPTOON (SPA), Digital comic services.",
+    "country": "Japan"
+  },
+  {
+    "name": "B-eee Technology",
+    "website": "http://www.b-eee.com/",
+    "description": "WebDB, CRM(SaaS, bigdata, realtime, dashboards and graphs), and workflows",
+    "country": "Japan"
+  },
+  {
+    "name": "FURYU",
+    "website": "https://www.furyu.jp",
+    "description": "PICTLINK SPA on Vue.",
+    "country": "Japan"
+  },
+  {
+    "name": "DMM.com Labo",
+    "website": "https://cmawards.dmm.com/",
+    "description": "Posting and voting CM videos with serverless SPA.",
+    "country": "Japan"
+  },
+  {
+    "name": "CyberAgent",
+    "website": "https://adtech.cyberagent.io",
+    "description": "Many product are running with migrating to Vue.js",
+    "country": "Japan"
+  },
+  {
+    "name": "SCOUTER",
+    "website": "https://corp.scouter.co.jp",
+    "description": "SCOUTER (HR, Recruitment service) Web Site for all stakeholders",
+    "country": "Japan"
+  },
+  {
+    "name": "Repro",
+    "website": "https://repro.io",
+    "description": "Most of the UI of the application is built with Vue.js + Vuex!",
+    "country": "Japan"
+  },
+  {
+    "name": "TeamUp",
+    "website": "https://www.teamup.jp",
+    "description": "TeamUp (feedback system) is built with Vue.js and Vuex.",
+    "country": "Japan"
+  },
+  {
+    "name": "Umeebe Inc.",
+    "website": "https://umee.be/",
+    "description": "TsuribaCamera (Community Service for Anglers) with Nuxt.js",
+    "country": "Japan"
+  },
+  {
+    "name": "Blabo Inc.",
+    "website": "https://bla.bo/",
+    "description": "Co-Creation Platform",
+    "country": "Japan"
+  },
+  {
+    "name": "DeNA",
+    "website": "http://dena.com/",
+    "description": "At DeNA, we use Vue.js for product development in various business such as automotive, life science and entertainment.",
+    "country": "Japan"
+  },
+  {
+    "name": "oRo",
+    "website": "https://www.oro.com",
+    "description": "Making various interactive websites / applications for each customer on demand.",
+    "country": "Japan"
+  },
+  {
+    "name": "Tokyo Otaku Mode Inc.",
+    "website": "https://corporate.otakumode.com/",
+    "description": "Tokyo Otaku Mode is built with Vue.js and Vuex.",
+    "country": "Japan"
+  },
+  {
+    "name": "来栖川電算",
+    "website": "https://www.kurusugawa.jp",
+    "description": "Built AnnoFab, a Web app for mass-producing quality annotations for machine learning. Also contributing to Vue eco-system specially vue-i18n.",
+    "country": "Japan"
+  },
+  {
+    "name": "M&T Technology Inc.",
+    "website": "https://www.m-t.com",
+    "description": "Customer and administrator backends currently in development, as well as all current and future software are made with Vue.js and/or Laravel.",
+    "country": "Japan"
+  },
+  {
+    "name": "SAKURA Internet Inc.",
+    "website": "https://www.sakura.ad.jp/",
+    "description": "Building dashboards in our services such as sakura.io, Koukaryoku Computing and using for other various scenes.",
+    "country": "Japan"
+  },
+  {
+    "name": "Viibar inc.",
+    "website": "https://viibar.com/",
+    "description": "Building Vync with Vue.js.",
+    "country": "Japan"
+  },
+  {
+    "name": "ALIS",
+    "website": "https://alis.to/",
+    "description": "A completely new social media concept revealing and providing access to reliable, articles, news, and people",
+    "country": "Japan"
+  },
+  {
+    "name": "Safie",
+    "website": "https://safie.link/",
+    "description": "Building corporate site, dashboards with Vue.js & Nuxt.js.",
+    "country": "Japan"
+  },
+  {
+    "name": "TechBowl",
+    "website": "https://techbowl.co.jp",
+    "description": "Our Service, \"TechTrain\" is built with Nuxt.js. \"TechTrain\" is a community and service for engineers and developers.",
+    "country": "Japan"
+  },
+  {
+    "name": "HiCustomer",
+    "website": "https://hicustomer.jp/",
+    "description": "HiCustomer (Customer Success Management tool for SaaS) is built with Vue.js and Vuex.",
+    "country": "Japan"
+  },
+  {
+    "name": "Widsley",
+    "website": "https://widsley.com/",
+    "description": "We build Sales oriented CRM and CTI using Vue.js and Nuxt.js on front and Laravel on backend. Our main product ComDesk",
+    "country": "Japan"
+  },
+  {
+    "name": "BeautifulCode",
+    "website": "https://www.beautifulcode.co",
+    "description": "Remote based Service Company using Vue with Typescript",
+    "country": "India"
+  },
+  {
+    "name": "Capital Numbers",
+    "website": "https://www.capitalnumbers.com/",
+    "description": "Provides #Web #Mobile #DevOps and #AI #ML talent “On-Demand” to leading businesses around the world",
+    "country": "India"
+  },
+  {
+    "name": "Clarity Technologies",
+    "website": "https://claritytech.io/",
+    "description": "Software and Services Startup",
+    "country": "India",
+    "isHiring": true
+  },
+  {
+    "name": "Clearglass",
+    "website": "https://clearglass.com/",
+    "description": "Helping Pension Funds see all of their investment costs in one place.",
+    "country": "India"
+  },
+  {
+    "name": "DeepSource",
+    "website": "https://deepsource.io",
+    "description": "Automated code review that helps you write better code. Backed by Y Combinator.",
+    "country": "India",
+    "isHiring": true
+  },
+  {
+    "name": "Economize",
+    "website": "https://www.economize.cloud/",
+    "description": "Analyze, manage, and optimize your cloud infrastructure costs & billing better with Economize.",
+    "country": "India",
+    "isHiring": true
+  },
+  {
+    "name": "Experion Technologies",
+    "website": "https://www.experionglobal.com/",
+    "description": "Provides digital software solutions and services have been delivered to clients in HealthTech, InsureTech, FinTech, Supply Chain, Transportation, Retail, Logistics.",
+    "country": "India"
+  },
+  {
+    "name": "Flock",
+    "website": "https://flock.com",
+    "description": "Tools for effortless communication and collaboration",
+    "country": "India",
+    "isHiring": true
+  },
+  {
+    "name": "GeoSpoc",
+    "website": "https://www.geospoc.com",
+    "description": "GIS + Web with all web projects being rendered using Vue / Nuxt.js",
+    "country": "India",
+    "isHiring": true
+  },
+  {
+    "name": "Helpninja",
+    "website": "https://helpninja.com",
+    "description": "Simple and Affordable Helpdesk",
+    "country": "India"
+  },
+  {
+    "name": "Iconscout",
+    "website": "https://iconscout.com",
+    "description": "Design resources marketplace for icons, illustrations & stock photos with 2 million+ assets.",
+    "country": "India"
+  },
+  {
+    "name": "Infinitewp",
+    "website": "https://infinitewp.com",
+    "description": "Multiple WordPress management solution.",
+    "country": "India"
+  },
+  {
+    "name": "KarixIO",
+    "website": "https://www.karix.io/",
+    "description": "Admin/OPs dashboard",
+    "country": "India"
+  },
+  {
+    "name": "Kite by Zerodha",
+    "website": "https://kite.zerodha.com/",
+    "description": "Web based trading platform",
+    "country": "India"
+  },
+  {
+    "name": "Kuvera",
+    "website": "https://kuvera.in/",
+    "description": "Online platform for mutual fund investment",
+    "country": "India"
+  },
+  {
+    "name": "Locale.ai",
+    "website": "https://locale.ai/",
+    "description": "Web based GIS, Large scale geospatial visualizations and analytics",
+    "country": "India"
+  },
+  {
+    "name": "Medinovita",
+    "website": "https://www.medinovita.com/",
+    "description": "Wellness & Yoga",
+    "country": "India"
+  },
+  {
+    "name": "Mobiotics",
+    "website": "https://mobiotics.com/",
+    "description": "OTT Platform,DRM",
+    "country": "India"
+  },
+  {
+    "name": "Murait Technologies",
+    "website": "https://www.murait.com/",
+    "description": "Remote base Service Company using Vue with Laravel",
+    "country": "India",
+    "isHiring": true
+  },
+  {
+    "name": "Olacabs",
+    "website": "https://www.olacabs.com",
+    "description": "Most of the Websites and Webviews",
+    "country": "India"
+  },
+  {
+    "name": "RentoMojo",
+    "website": "https://rentomojo.com",
+    "description": "Furniture, Appliances, Electronics Rental",
+    "country": "India"
+  },
+  {
+    "name": "Scroll.in",
+    "website": "https://scroll.in",
+    "description": "digital publishing / News media",
+    "country": "India"
+  },
+  {
+    "name": "Sminq - Doctor's Appointments",
+    "website": "https://www.sminq.com",
+    "description": "Realtime appointment system for doctors",
+    "country": "India"
+  },
+  {
+    "name": "thesouledstore",
+    "website": "https://www.thesouledstore.com/",
+    "description": "Online merchandise",
+    "country": "India"
+  },
+  {
+    "name": "ThoughtFocus",
+    "website": "https://www.thoughtfocus.com/",
+    "description": "Working in Aerospace & Defense, Education, Finance, & Manufacturing domain & use Vue to build web apps",
+    "country": "India"
+  },
+  {
+    "name": "Upwardly",
+    "website": "https://www.upwardly.in",
+    "description": "Fintech startup for mutual fund investment",
+    "country": "India"
+  },
+  {
+    "name": "Voicezen",
+    "website": "https://voicezen.ai",
+    "description": "Speech-to-text & AI Platform",
+    "country": "India"
+  },
+  {
+    "name": "WIOS Designs",
+    "website": "https://wiosdesigns.xyz",
+    "description": "Custom front-end solutions, games and open source projects",
+    "country": "India"
+  },
+  {
+    "name": "YourStory",
+    "website": "https://yourstory.com",
+    "description": "Media Platform",
+    "country": "India"
+  },
+  {
+    "name": "Zoomcar",
+    "website": "https://zoomcar.com",
+    "description": "Self-Driving Car Rental",
+    "country": "India"
+  },
+  {
+    "name": "QArt Fashion",
+    "website": "https://www.qart.fashion/",
+    "description": "For QArt Dashboard",
+    "country": "India"
+  },
+  {
+    "name": "SegundaMano",
+    "website": "https://www.segundamano.mx/",
+    "country": "Mexico"
+  },
+  {
+    "name": "Pulpomatic",
+    "website": "https://www.pulpomatic.com",
+    "country": "Mexico"
+  },
+  {
+    "name": "Cultura Colectiva",
+    "website": "https://culturacolectiva.com",
+    "country": "Mexico"
+  },
+  {
+    "name": "Worky",
+    "website": "https://worky.mx",
+    "country": "Mexico"
+  },
+  {
+    "name": "Clip",
+    "website": "https://clip.mx/",
+    "country": "Mexico"
+  },
+  {
+    "name": "Vetta",
+    "website": "http://vetta.io",
+    "country": "Mexico"
+  },
+  {
+    "name": "Devhive",
+    "website": "http://devhive.mx",
+    "country": "Mexico"
+  },
+  {
+    "name": "Marciano Studio",
+    "website": "http://marciano.com.mx/",
+    "country": "Mexico"
+  },
+  {
+    "name": "Brandy",
+    "website": "https://getbrandy.io",
+    "country": "Norway"
+  },
+  {
+    "name": "Color Line",
+    "website": "https://www.colorline.no/",
+    "country": "Norway"
+  },
+  {
+    "name": "Direktoratet for samfunnssikkerhet og beredskap",
+    "website": "https://www.dsb.no/",
+    "country": "Norway"
+  },
+  {
+    "name": "DoggieBag.no",
+    "website": "https://doggiebag.no/",
+    "country": "Norway"
+  },
+  {
+    "name": "Elder",
+    "website": "https://elder.no/",
+    "country": "Norway"
+  },
+  {
+    "name": "Espen Andersen",
+    "website": "https://easound.no/",
+    "country": "Norway"
+  },
+  {
+    "name": "Finn småjobber",
+    "website": "https://www.finn.no/smajobber/",
+    "country": "Norway"
+  },
+  {
+    "name": "Kvalitetskontroll",
+    "website": "https://www.kvalitetskontroll.no/",
+    "country": "Norway"
+  },
+  {
+    "name": "Lexus Bergen",
+    "website": "https://www.lexus-bergen.no/",
+    "country": "Norway"
+  },
+  {
+    "name": "NOR-WAY",
+    "website": "https://www.nor-way.no",
+    "country": "Norway"
+  },
+  {
+    "name": "TikkTalk",
+    "website": "https://my.tikktalk.com/",
+    "country": "Norway"
+  },
+  {
+    "name": "PlusstidHome",
+    "website": "https://plusstidhome.no",
+    "country": "Norway"
+  },
+  {
+    "name": "VIP24 Coach",
+    "website": "https://my.vip24.coach",
+    "country": "Norway"
+  },
+  {
+    "name": "BCaster",
+    "website": "https://www.bcaster.com",
+    "country": "Finland"
+  },
+  {
+    "name": "MobileAction",
+    "website": "https://www.mobileaction.co/",
+    "country": "Turkey"
+  },
+  {
+    "name": "Edita Publishing",
+    "website": "https://www.editapublishing.fi",
+    "country": "Finland"
+  },
+  {
+    "name": "Holvi",
+    "website": "https://www.holvi.com/fi-en/",
+    "country": "Finland"
+  },
+  {
+    "name": "Feedbackly",
+    "website": "https://www.feedbackly.com/",
+    "country": "Finland"
+  },
+  {
+    "name": "Teknasyon",
+    "website": "https://teknasyon.com/",
+    "country": "Turkey"
+  },
+  {
+    "name": "Montel Intergalactic",
+    "website": "https://www.montel.fi",
+    "country": "Finland"
+  },
+  {
+    "name": "Sarake",
+    "website": "https://sarake.fi",
+    "country": "Finland"
+  },
+  {
+    "name": "Accountor Eduhouse",
+    "website": "https://eduhouse.fi",
+    "country": "Finland"
+  },
+  {
+    "name": "Aixigo",
+    "website": "https://www.aixigo.com",
+    "country": "Turkey",
+    "isHybrid": true
+  },
+  {
+    "name": "Insider",
+    "website": "https://useinsider.com",
+    "country": "Turkey"
+  },
+  {
+    "name": "Iceberg Digital",
+    "website": "https://www.iceberg-digital.co.uk",
+    "country": "Turkey",
+    "isHybrid": true,
+    "isRemote": true
+  },
+  {
+    "name": "Eva Guru",
+    "website": "https://eva.guru",
+    "country": "Turkey",
+    "isHybrid": true,
+    "isRemote": true
+  },
+  {
+    "name": "Monterail",
+    "website": "https://www.monterail.com",
+    "country": "Poland",
+    "isHybrid": true,
+    "isRemote": true
+  },
+  {
+    "name": "adesso Turkey",
+    "website": "https://www.adesso.com.tr",
+    "country": "Turkey",
+    "isHybrid": true,
+    "isRemote": true,
+    "contact": { "text": "mustafacagri", "url": "https://www.linkedin.com/in/mustafacagri" }
+  },
+  {
+    "name": "WebReinvent",
+    "website": "https://webreinvent.com/",
+    "country": "India"
+  },
+  {
+    "name": "PassionatePeople",
+    "website": "https://passionatepeople.io/",
+    "country": "Netherlands"
+  },
+  {
+    "name": "Curotec",
+    "website": "https://curotec.com/",
+    "country": "United States"
+  },
+  {
+    "name": "herodevs",
+    "website": "https://herodevs.com/",
+    "country": "United States"
+  },
+  {
+    "name": "Vehikl",
+    "website": "https://vehikl.com/",
+    "country": "Canada"
+  },
+  {
+    "name": "Redberry",
+    "website": "https://redberry.international/",
+    "country": "Georgia"
+  }
+]
