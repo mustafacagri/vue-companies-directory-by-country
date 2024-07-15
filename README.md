@@ -2,7 +2,7 @@
 <h1>🌐 Vue.js Companies Directory</h1>
 
 <p>Welcome to the Vue Companies Directory repository! This project aims to provide a comprehensive list of companies worldwide that use Vue.js in their tech stack. It's a community-driven effort to showcase Vue.js adoption across different countries and industries.</p>
-<p>Currently, we have <strong><em>98 companies</em></strong> listed from <strong><em>12 different countries</em></strong>!</p>
+<p>Currently, we have <strong><em>98 companies</em></strong> listed from <strong><em>12 different countries</em></strong>! Let's grow our community together by adding more companies and sharing this repository with fellow Vue.js enthusiasts.</p>
 
 <h2>Contents</h2>
 
