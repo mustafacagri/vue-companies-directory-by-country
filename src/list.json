@@ -1,4 +1,14 @@
 [
+    {
+      "name": "Webservice.Digital",
+      "country": "Germany",
+      "isRemote": true,
+      "isHybrid": false,
+      "isHiring": true,
+      "website": "https://webservice.digital",
+      "contact": { "text": "Stuxcore", "url": "https://www.linkedin.com/in/stuxcore" },
+      "description": "Webservice Solutions Worldwide"
+    }
   {
     "name": "GNEX ltd.",
     "website": "https://globalnet-ex.com",
